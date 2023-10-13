@@ -14,8 +14,11 @@ Welcome to the documentation pages of the _ITFlow_!
 * [Test](/docs/Test.md)
 * [Project management](/docs/ProjectManagement.md)
 
-<img src="images/Gif.gif" title="hover text">
+Here's a preview of the application:
 
+<img src="images/Gif.gif" height="700"/>
+
+Project done by:
 - Adriano Alexandre dos Santos Machado
 - Igor Cherstnev
 - José Pedro Evans de Carvalho Nobre João
